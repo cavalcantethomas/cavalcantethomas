@@ -14,7 +14,7 @@
 
 - [x] March
 - [x] April
-- [x] May
+- [ ] May (5 days)
 - [ ] June
 - [ ] July
 - [ ] August
