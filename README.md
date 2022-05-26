@@ -7,7 +7,7 @@
   - Front-end software
   - Interactive Web Development
   - Three.js
-- My hobbies include:
+- 🚲 My hobbies include:
   - Photography
   - Script-writing
   - Biking
