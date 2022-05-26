@@ -8,10 +8,9 @@
   - Interactive Web Development
   - Three.js
 - 🚲 My hobbies include:
-  - Photography
+  - Photo & video
   - Script-writing
-  - Biking
-  - Skateboarding
+  - Biking & Skateboarding
   - Drawing & Painting
   - Rock-climbing
 
