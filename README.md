@@ -7,3 +7,14 @@
   - Front-end software
   - Interactive Web Development
   - Three.js
+
+---
+
+### Co-op Month Tracker
+
+- [x] April
+- [x] May
+- [ ] June
+- [ ] July
+- [ ] August
+
