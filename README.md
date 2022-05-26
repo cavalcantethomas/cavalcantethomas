@@ -19,3 +19,12 @@
 - [ ] July
 - [ ] August
 
+---
+
+### Goals for Summer
+
+- [ ] One
+- [ ] Two
+- [ ] Three
+- [ ] Four
+- [ ] Five
