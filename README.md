@@ -10,8 +10,9 @@
 
 ---
 
-### Co-op Month Tracker
+### 6 Month Co-op Month Tracker
 
+- [x] March
 - [x] April
 - [x] May
 - [ ] June
