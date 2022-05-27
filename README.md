@@ -30,6 +30,7 @@
 ### Goals for Summer
 
 - [ ] Finish CTS Documention
+- [ ] Travel to Colorado to visit my friend Vince. (never been to Colorado)
 - [ ] Model 3D objects for CTS controllers with materials applied
 - [ ] Develop interactive demo for CTS
-- [ ] Travel to Colorado to visit my friend Vince. (never been to Colorado)
+- [ ] Write & shoot original 5 minute short-film
