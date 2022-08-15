@@ -21,8 +21,8 @@
 - [x] March
 - [x] April
 - [x] May
-- [ ] June (3 days)
-- [ ] July
+- [x] June
+- [x] July
 - [ ] August
 
 ---
@@ -31,6 +31,5 @@
 
 - [ ] Finish CTS Documention
 - [ ] Travel to Colorado to visit my friend Vince. (never been to Colorado)
-- [ ] Model 3D objects for CTS controllers with materials applied
-- [ ] Develop interactive demo for CTS
+- [ ] Finish Ordinary 1.0
 - [ ] Write & shoot original 5 minute short-film
